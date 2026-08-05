@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Async generator module.
+Module for async_generator coroutine.
 """
 import asyncio
 import random
